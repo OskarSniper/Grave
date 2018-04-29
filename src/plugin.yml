@@ -1,0 +1,7 @@
+name: Grave
+author: OskarSniper
+version: 2.1.8
+main: at.oskarsniper.core.Grave
+commands:
+  grave:
+    description: Main command for graves ;-)
